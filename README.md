@@ -1,8 +1,25 @@
 - 👋 Hi, I’m @LuizGCesar or Gustavo...
+
+<div>
+  <a href="https://github.com/LuizGCesar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgcesar&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgcesar&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ - 📚 I'm learning the following languages:    
+<div style="display: inline_block"><br>
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+</div>        
+
+
+
+          
+##
 - 😎 Technology enthusiast passionate about programming and problem-solving. I love creating shell scripts to automate my life on Linux. Fascinated by learning new languages and exploring different technologies. A supporter of the open-source community, always seeking new challenges to enhance my skills!
 - 🤓 I started studying programming in 2023, and I have been dedicating myself to my studies every day...
 - 👀 I’m interested in programming and creating code...
-- 📚 I'm learning the following languages:
+
   - Java
   - Python
   - SQL
