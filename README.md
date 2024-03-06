@@ -40,7 +40,7 @@
           
 </div>
 
-
+![Snake animation](https://github.com/LuizGCesar/LuizGCesar/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 LuizGCesar/LuizGCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
