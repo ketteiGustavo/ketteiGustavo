@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @LuizGCesar or Gustavo...
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Luiz+Gustavo!;" />
+</h1>
+
+
 - 😎 Technology enthusiast passionate about programming and problem-solving. I love creating shell scripts to automate my life on Linux. Fascinated by learning new languages and exploring different technologies. A supporter of the open-source community, always seeking new challenges to enhance my skills!
 - 🤓 I started studying programming in 2023, and I have been dedicating myself to my studies every day...
 - 👀 I’m interested in programming and creating code...
@@ -39,6 +43,11 @@
 <a href="https://www.linkedin.com/in/luizgustavocesar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
 </div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks++for+your+attention!;" />
+</h1>
+
 
 ![snake gif](https://github.com/LuizGCesar/LuizGCesar/blob/output/github-contribution-grid-snake-dark.svg)
 
