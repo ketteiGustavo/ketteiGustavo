@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/LuizGCesar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgcesar&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgcesar&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgcesar&show_icons=true&theme=cobalt&incluide_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgcesar&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
  - 📚 I'm learning the following languages:    
 <div style="display: inline_block"><br>
@@ -21,8 +21,7 @@
 </div>        
 
 
-
-          
+       
 ##
 
 - 🌱 I'm currently reading the following books:
@@ -45,11 +44,11 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks✌️💻!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=GoodBye✌️💻!;" />
 </h1>
 
 
-![snake gif](https://github.com/LuizGCesar/LuizGCesar/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LuizGCesar/LuizGCesar/blob/output/github-contribution-grid-snake-dark%20(1).svg) 
 
 <!---
 LuizGCesar/LuizGCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
