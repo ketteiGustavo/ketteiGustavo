@@ -33,15 +33,14 @@
 - ⚙️ I currently use Linux Mint to study and work...
 - 💞️ I'm looking to collaborate on backend projects...
 
-## 
-- 📫 How to contact me: 
+## 📫 meet me here
 
-<div>
-<a href="https://discord.gg/luizgustavo.alq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:luizgcesar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luizgustavocesar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-          
-</div>
+| Contact | Links |
+|-------|---------|
+|LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luizgustavocesar/)
+| Gmail | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgcesar@gmail.com)
+
+##
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=GoodBye✌️💻!;" />
