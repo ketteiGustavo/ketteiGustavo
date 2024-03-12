@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/LuizGCesar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgcesar&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgcesar&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketteiGustavo&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketteiGustavo&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </div>
  - 📚 I'm learning the following languages:    
 <div style="display: inline_block"><br>
