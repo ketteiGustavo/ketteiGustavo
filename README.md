@@ -3,6 +3,8 @@
 </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+
+
 - 😎 Technology enthusiast passionate about programming and problem-solving. I love creating shell scripts to automate my life on Linux. Fascinated by learning new languages and exploring different technologies. A supporter of the open-source community, always seeking new challenges to enhance my skills!
 - 🤓 I started studying programming in 2023, and I have been dedicating myself to my studies every day...
 - 👀 I’m interested in programming and creating code...
@@ -12,14 +14,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketteiGustavo&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketteiGustavo&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </div>
+##
  - 📚 I'm learning the following languages:    
 <div style="display: inline_block"><br>
 <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">  
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />          
 </div>        
-
+         
 
        
 ##
@@ -30,6 +35,9 @@
   - Clean Code...
   - The Self-Taught Programmer...
   - Linux! Bible...
+  - Programming logic and algorithms with JavaScript...
+
+## 
 - 🐧 I currently use Linux Mint to study and work 💻 ...
 - 💞️ I'm looking to collaborate on backend projects...
 
