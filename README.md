@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+👋;+I'm+Luiz+Gustavo!;" />
 </h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="hacking" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-![snake gif](https://github.com/ketteiGustavo/ketteiGustavo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ketteiGustavo/ketteiGustavo/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!---
