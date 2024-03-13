@@ -10,7 +10,7 @@
 - 👀 I’m interested in programming and creating code...
 
 <div>
-  <a href="https://github.com/LuizGCesar">
+  <a href="https://github.com/ketteiGustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketteiGustavo&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketteiGustavo&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </div>
