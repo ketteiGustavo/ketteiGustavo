@@ -55,7 +55,9 @@
 </h1>
 
 
-![snake gif](https://github.com/ketteiGustavo/ketteiGustavo/blob/main/github-contribution-grid-snake-dark.svg)
+
+![snake gif](https://github.com/ketteiGustavo/ketteiGustavo/blob/output/github-contribution-grid-snake.gif)
+
 
 <!---
 LuizGCesar/LuizGCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
