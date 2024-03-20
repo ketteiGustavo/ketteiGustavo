@@ -14,22 +14,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketteiGustavo&show_icons=true&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketteiGustavo&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </div>
-##
- - 📚 I'm learning the following languages:    
+
+##  📚 I'm learning the following languages:  
 <div style="display: inline_block"><br>
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />          
-</div>        
-         
+<img align="center" alt="Luiz-powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
+<img align="center" alt="Luiz-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
+<img align="center" alt="Luiz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Luiz-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Luiz-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+<img align="center" alt="Luiz-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="center" alt="Luiz-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+</div>
 
-       
-##
-
-- 📚 I'm currently reading the following books📚:
+## 📚 I'm currently reading the following books📚:
   - Head First SQL...
   - Head First JAVA...
   - Clean Code...
@@ -37,7 +35,7 @@
   - Linux! Bible...
   - Programming logic and algorithms with JavaScript...
 
-## 
+##  extras
 - 🐧 I currently use Linux Mint to study and work 💻 ...
 - 💞️ I'm looking to collaborate on backend projects...
 
