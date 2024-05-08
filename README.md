@@ -1,13 +1,13 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+👋;+I'm+Luiz+Gustavo!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Oi!+👋;+Bora+codar?!;" />
 </h1>
 <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-gamer-3.gif" alt="hacking" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
-- 😎 Technology enthusiast passionate about programming and problem-solving. I love creating shell scripts to automate my life on Linux. Fascinated by learning new languages and exploring different technologies. A supporter of the open-source community, always seeking new challenges to enhance my skills!
-- 🤓 I started studying programming in 2023, and I have been dedicating myself to my studies every day...
-- 👀 I’m interested in programming and creating code...
+- 😎 Entusiasta de tecnologia apaixonado por programação e solução de problemas. Adoro criar scripts de shell para automatizar minha vida no Linux. Busco aprender novas linguagens de programação e explorar diferentes tecnologias. Apoiador da comunidade open source, sempre em busca de novos desafios para aprimorar minhas habilidades!
+- 🤓 Comecei a estudar programação em 2023, e tenho me dedicado aos estudos todos os dias...
+- 👀 Tenho interesse em programar e criar códigos...
 
 <div>
   <a href="https://github.com/ketteiGustavo">
@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketteiGustavo&layout=compact&langs_count=16&theme=tokyonight&incluide_all_commits=true&count_private=true"/>
 </div>
 
-##  📚 I'm learning the following languages:  
+##  📚 Atualmente estou estudando as seguintes linguagens:  
 <div style="display: inline_block"><br>
 <img align="center" alt="Luiz-powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
 <img align="center" alt="Luiz-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
@@ -27,7 +27,7 @@
 <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
 </div>
 
-## 📚 I'm currently reading the following books📚:
+## 📚 E lendo os seguintes livros:
   - Head First SQL...
   - Head First JAVA...
   - Clean Code...
@@ -36,10 +36,10 @@
   - Programming logic and algorithms with JavaScript...
 
 ##  extras
-- 🐧 I currently use Linux Mint to study and work 💻 ...
-- 💞️ I'm looking to collaborate on backend projects...
+- 🐧 Uso o Linux Mint para estudo e trabalho 💻 ...
+- 💞️ E desejo seguir na trilha do backend...
 
-## 📫 meet me here
+## 📫 Onde me encontrar
 
 | Contact | Links |
 |-------|---------|
