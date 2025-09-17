@@ -1,14 +1,23 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Oi!+👋;+Bora+codar?!;" />
 </h1>
-<img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-gamer-3.gif" alt="hacking" min-width="400px" max-width="400px" width="400px" align="right">
-
+<img src="https://raw.githubusercontent.com/ketteiGustavo/ketteiGustavo/refs/heads/main/gifs/CodingWork.gif" alt="coding" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 - 😎 Entusiasta de tecnologia apaixonado por programação e solução de problemas. Adoro criar shellscripts para automatizar minha vida no Linux. Busco aprender novas linguagens de programação e explorar diferentes tecnologias. Apoiador da comunidade open source, sempre em busca de novos desafios para aprimorar minhas habilidades!
 - 🤓 Comecei a estudar programação em 2023, e tenho me dedicado aos estudos todos os dias...
-- 👀 Tenho interesse em programar e criar códigos...
 - 🧑‍🎓 Atualmente estou estudando Ciências da Computação.
+- 📱 Estou desenvolvendo um jogo Mobile.
+- 📈 Desenvolvi um **conversor** de Dados em **Python**.
+- ⚙️ Desenvolvi o '**Comitar**', utilizando Shell, para padronizar commits para repositórios
+
+##
+
+<div>
+  <img align="center" alt="keep-coding" src="https://raw.githubusercontent.com/ketteiGustavo/ketteiGustavo/refs/heads/main/gifs/keepcode.gif">
+</div>
+
+##
 
 <div>
   <a href="https://github.com/ketteiGustavo">
@@ -18,27 +27,23 @@
 
 ##  📚 Atualmente estou estudando as seguintes linguagens:
 <div style="display: inline_block"><br>
-<img align="center" alt="Luiz-powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
-<img align="center" alt="Luiz-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/>
-<img align="center" alt="Luiz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Luiz-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Luiz-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Luiz-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img align="center" alt="Luiz-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" alt="Luiz-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+<img align="center" alt="Luiz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Luiz-postgres" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+
 </div>
 
 ## 📚 E lendo os seguintes livros:
-  - Head First SQL...
-  - Head First JAVA...
+  - Python para Análise de Dados
   - Clean Code...
   - The Self-Taught Programmer...
-  - Linux! Bible...
-  - Programming logic and algorithms with JavaScript...
 
 ##  extras
 - 🐧 Uso o Linux Mint para estudo e trabalho 💻 ...
-- 💞️ E desejo seguir na trilha do backend...
+- 💞️ E sigo na trilha do backend...
 
 ## 📫 Onde me encontrar
 
