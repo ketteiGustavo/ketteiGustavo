@@ -4,12 +4,15 @@
 <img src="https://raw.githubusercontent.com/ketteiGustavo/ketteiGustavo/refs/heads/main/gifs/CodingWork.gif" alt="coding" min-width="300px" max-width="300px" width="300px" align="right">
 
 
-- 😎 Entusiasta de tecnologia apaixonado por programação e solução de problemas. Adoro criar shellscripts para automatizar minha vida no Linux. Busco aprender novas linguagens de programação e explorar diferentes tecnologias. Apoiador da comunidade open source, sempre em busca de novos desafios para aprimorar minhas habilidades!
+- 😎 Entusiasta de tecnologia apaixonado por programação e solução de problemas. Shellscripts fazem parte da minha vida diariamente para automatizar meu uso com o Linux. Em constante estudo, buscando aprimorar sempre meu dominio sobre lógica de programação. Apoiador da comunidade open source!
+- 🐍 Python se tornou minha linguagem favorita!
 - 🤓 Comecei a estudar programação em 2023, e tenho me dedicado aos estudos todos os dias...
-- 🧑‍🎓 Atualmente estou estudando Ciências da Computação.
-- 📱 Estou desenvolvendo um jogo Mobile.
+- 🧑‍🎓 Atualmente estou estudando Ciências da Computação na Fumec.
+- 📱 Estou desenvolvendo um jogo Mobile em Flutter/Dart.
 - 📈 Desenvolvi um **conversor** de Dados em **Python**.
-- ⚙️ Desenvolvi o '**Comitar**', utilizando Shell, para padronizar commits para repositórios
+- ⚙️ Desenvolvi o '**Comitar**', utilizando ShellScript, para padronizar commits para repositórios.
+- 💡 Estou desenvolvendo o '**Comitar V2**', utilizando TypeScript, para ser uma extensão usada no VScode e padronizar commits para repositórios com uma interface gráfica.
+- 💻 Já desenvolvi inúmeras automações para **Servidores Linux** que rodam em clientes da **Avanço Informática**.
 
 ##
 
@@ -61,10 +64,4 @@
 
 
 ![snake gif](https://github.com/ketteiGustavo/ketteiGustavo/blob/output/github-snake-dark.svg)
-
-
-<!---
-LuizGCesar/LuizGCesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
