@@ -10,7 +10,7 @@
 - 🧑‍🎓 Atualmente estou estudando Ciências da Computação na Fumec.
 - 📱 Estou desenvolvendo um jogo Mobile em Flutter/Dart.
 - 📈 Desenvolvi um **conversor** de Dados em **Python**.
-- ⚙️ Desenvolvi o '**Comitar**', utilizando ShellScript, para padronizar commits para repositórios.
+- ⚙️ Desenvolvi o '**[Comitar](https://github.com/ketteiGustavo/comitar)**', utilizando ShellScript, para padronizar commits para repositórios.
 - 💡 Estou desenvolvendo o '**Comitar V2**', utilizando TypeScript, para ser uma extensão usada no VScode e padronizar commits para repositórios com uma interface gráfica.
 - 💻 Já desenvolvi inúmeras automações para **Servidores Linux** que rodam em clientes da **Avanço Informática**.
 
